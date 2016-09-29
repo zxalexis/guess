@@ -11,6 +11,6 @@
     <string name="error">Invalid number</string>
     <dimen name="text_size1">18dp</dimen>
     <string name="fool">You lost:(((((</string>
-    <string name="nullstr">"  "</string>
+    <string name="nullstr">"   "</string>
 
 </resources>

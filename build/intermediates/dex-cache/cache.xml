@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="45bb40e8618539a3cada8845ab6195269fca75d9">
+        sha1="855020e53ae021a64118db7cb85955580f47b61f">
         <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a89b9899ab708c2abab5d60dd11d760919f8b90/classes.dex" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7bd769cb9a1d49663457c62a35463a1599e8e6ff">
+        sha1="78fa7ee4f75d7560e1a59c040f1047078e581f19">
         <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9635b8c5cf8aec203212f1cfb9abb1d94beeb61/classes.dex" />
     </item>
 

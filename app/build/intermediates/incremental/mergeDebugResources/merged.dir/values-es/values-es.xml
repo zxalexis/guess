@@ -9,7 +9,7 @@
     <string name="hello_world">¡Hola!</string>
     <string name="hit">¡Exacto!</string>
     <string name="input_value">Introduce el número</string>
-    <string name="nullstr">"  "</string>
+    <string name="nullstr">"   "</string>
     <string name="playmore">Jugar de nuevo</string>
     <string name="try_to_guess">Adivina el número (1-100)</string>
 </resources>

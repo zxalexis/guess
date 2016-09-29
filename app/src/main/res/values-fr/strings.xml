@@ -10,5 +10,5 @@
     <string name="try_to_guess">Devine le nombre (1 – 100)</string>
     <string name="error">Nombre invalide</string>
     <string name="fool">Tu as perdu:(((((</string>
-    <string name="nullstr">\"  \"</string>
+    <string name="nullstr">"   "</string>
 </resources>

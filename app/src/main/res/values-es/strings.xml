@@ -11,6 +11,6 @@
     <string name="error">Número inválido</string>
     <dimen name="text_size1">18dp</dimen>
     <string name="fool">Has perdido :(</string>
-    <string name="nullstr">"  "</string>
+    <string name="nullstr">"   "</string>
 
 </resources>

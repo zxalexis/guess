@@ -8,7 +8,7 @@
     <string name="hello_world">Bonjour, Android !</string>
     <string name="hit">Dans le mille !</string>
     <string name="input_value">Proposer le nombre</string>
-    <string name="nullstr">\"  \"</string>
+    <string name="nullstr">"   "</string>
     <string name="playmore">Rejouer</string>
     <string name="try_to_guess">Devine le nombre (1 – 100)</string>
 </resources>
