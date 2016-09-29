@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deviner le nombre</string>
+    <string name="hello_world">Bonjour, Android !</string>
+    <string name="behind">Trop petit !</string>
+    <string name="ahead">Trop grand !</string>
+    <string name="hit">Dans le mille !</string>
+    <string name="playmore">Rejouer</string>
+    <string name="input_value">Proposer le nombre</string>
+    <string name="try_to_guess">Devine le nombre (1 – 100)</string>
+    <string name="error">Nombre invalide</string>
+    <string name="fool">Tu as perdu:(((((</string>
+    <string name="nullstr">\"  \"</string>
+</resources>

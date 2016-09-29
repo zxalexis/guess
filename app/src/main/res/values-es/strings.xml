@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">¿Qué número es?</string>
+    <string name="hello_world">¡Hola!</string>
+    <string name="behind">¡Más alto!</string>
+    <string name="ahead">¡Te has pasado!</string>
+    <string name="hit">¡Exacto!</string>
+    <string name="playmore">Jugar de nuevo</string>
+    <string name="input_value">Introduce el número</string>
+    <string name="try_to_guess">Adivina el número (1-100)</string>
+    <string name="error">Número inválido</string>
+    <dimen name="text_size1">18dp</dimen>
+    <string name="fool">Has perdido :(</string>
+    <string name="nullstr">"  "</string>
+
+</resources>

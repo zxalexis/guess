@@ -1,0 +1,7 @@
+#Fri Sep 30 01:22:22 MSK 2016
+base.0=/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a89b9899ab708c2abab5d60dd11d760919f8b90
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9635b8c5cf8aec203212f1cfb9abb1d94beeb61/classes.dex
+base.1=/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9635b8c5cf8aec203212f1cfb9abb1d94beeb61
+file.0=/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a89b9899ab708c2abab5d60dd11d760919f8b90/classes.dex

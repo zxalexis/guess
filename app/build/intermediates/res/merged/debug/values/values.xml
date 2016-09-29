@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size1">18dp</dimen>
+    <string name="ahead">Overshoot!</string>
+    <string name="app_name">Guess</string>
+    <string name="behind">Undershoot!</string>
+    <string name="error">Invalid number</string>
+    <string name="fool">You lost:(((((</string>
+    <string name="hello_world">Hello, Android!</string>
+    <string name="hit">At the point!</string>
+    <string name="input_value">Put the number</string>
+    <string name="nullstr">"  "</string>
+    <string name="playmore">Play again</string>
+    <string name="try_to_guess">Guess the number (1 – 100)</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

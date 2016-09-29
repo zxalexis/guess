@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Guess</string>
+    <string name="hello_world">Hello, Android!</string>
+    <string name="behind">Undershoot!</string>
+    <string name="ahead">Overshoot!</string>
+    <string name="hit">At the point!</string>
+    <string name="playmore">Play again</string>
+    <string name="input_value">Put the number</string>
+    <string name="try_to_guess">Guess the number (1 – 100)</string>
+    <string name="error">Invalid number</string>
+    <dimen name="text_size1">18dp</dimen>
+    <string name="fool">You lost:(((((</string>
+    <string name="nullstr">"  "</string>
+
+</resources>

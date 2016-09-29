@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="45bb40e8618539a3cada8845ab6195269fca75d9">
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a89b9899ab708c2abab5d60dd11d760919f8b90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ec5f105e7995ffae3adacb5bacd4960ee0096747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7bd769cb9a1d49663457c62a35463a1599e8e6ff">
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9635b8c5cf8aec203212f1cfb9abb1d94beeb61/classes.dex" />
+    </item>
+
+</items>
