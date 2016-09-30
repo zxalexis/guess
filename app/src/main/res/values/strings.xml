@@ -9,7 +9,7 @@
     <string name="input_value">Put the number</string>
     <string name="try_to_guess">Guess the number (1 – 100)</string>
     <string name="error">Invalid number</string>
-    <dimen name="text_size1">18dp</dimen>
+    <dimen name="text_size1">18sp</dimen>
     <string name="fool">You lost:(((((</string>
     <string name="nullstr">"   "</string>
 

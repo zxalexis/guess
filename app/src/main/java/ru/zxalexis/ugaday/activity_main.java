@@ -39,7 +39,7 @@ public class activity_main extends Activity {
 	}
 
 	public void onClick(View v) {
-		if !bFinished  {
+		if (!bFinished)  {
 			if (!etInput.getText().toString().isEmpty()) {
 				iVvod = Integer.parseInt(etInput.getText().toString());
 			} else {

@@ -7,27 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 41,
-                    "endOffset": 92
-                },
-                "from": {
-                    "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 483,
-                        "endColumn": 41,
-                        "endOffset": 520
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 97,
                     "endColumn": 49,
-                    "endOffset": 142
+                    "endOffset": 100
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
@@ -42,11 +23,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 147,
+                    "startOffset": 105,
                     "endColumn": 52,
-                    "endOffset": 195
+                    "endOffset": 153
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
@@ -61,11 +42,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 200,
+                    "startOffset": 158,
                     "endColumn": 45,
-                    "endOffset": 241
+                    "endOffset": 199
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
@@ -80,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 246,
+                    "startOffset": 204,
                     "endColumn": 49,
-                    "endOffset": 291
+                    "endOffset": 249
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
@@ -99,30 +80,30 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 296,
+                    "startOffset": 254,
                     "endColumn": 47,
-                    "endOffset": 339
+                    "endOffset": 297
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 525,
+                        "startOffset": 483,
                         "endColumn": 47,
-                        "endOffset": 568
+                        "endOffset": 526
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 344,
+                    "startOffset": 302,
                     "endColumn": 46,
-                    "endOffset": 386
+                    "endOffset": 344
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
@@ -137,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 391,
+                    "startOffset": 349,
                     "endColumn": 40,
-                    "endOffset": 427
+                    "endOffset": 385
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
@@ -156,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 432,
+                    "startOffset": 390,
                     "endColumn": 59,
-                    "endOffset": 487
+                    "endOffset": 445
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
@@ -175,30 +156,30 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 492,
+                    "startOffset": 450,
                     "endColumn": 41,
-                    "endOffset": 529
+                    "endOffset": 487
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 573,
+                        "startOffset": 531,
                         "endColumn": 41,
-                        "endOffset": 610
+                        "endOffset": 568
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 534,
+                    "startOffset": 492,
                     "endColumn": 51,
-                    "endOffset": 581
+                    "endOffset": 539
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",
@@ -213,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 586,
+                    "startOffset": 544,
                     "endColumn": 66,
-                    "endOffset": 648
+                    "endOffset": 606
                 },
                 "from": {
                     "file": "/home/zx/StudioProjects/guess-the-number/app/src/main/res/values-es/strings.xml",

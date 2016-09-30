@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
     android:id="@+id/LinearLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -27,7 +28,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="numberDecimal" >
+        style="@android:style/Widget.EditText"
+        android:inputType="numberDecimal">
 
         <requestFocus />
     </EditText>
@@ -42,7 +44,9 @@
             android:layout_height="wrap_content"
             android:gravity="center_vertical|center_horizontal"
             android:onClick="onClick"
-            android:text="@string/input_value" />
+            android:text="@string/input_value"
+            android:textAppearance="@android:style/TextAppearance"
+            android:visibility="visible" />
 
     </RelativeLayout>
 
