@@ -2,7 +2,7 @@ package ru.zxalexis.ugaday;
 
 
 import android.app.Activity;
-import android.net.Uri;
+//import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.*;
@@ -11,13 +11,13 @@ import android.view.WindowManager;
 
 
 public class activity_main extends Activity {
-	TextView tvInfo;
-	EditText etInput;
-	Button bControl;
-	Integer iPopitka;
-	Boolean bFinished;
-	Integer iChislo, iVvod;
-	Random Rn;
+	private TextView tvInfo;
+    private EditText etInput;
+    private Button bControl;
+    private Integer iPopitka;
+    private Boolean bFinished;
+    private Integer iChislo;
+    private Random Rn;
 
 
 	@Override
@@ -39,6 +39,7 @@ public class activity_main extends Activity {
 	}
 
 	public void onClick(View v) {
+        Integer iVvod;
 		if (!bFinished)  {
 			if (!etInput.getText().toString().isEmpty()) {
 				iVvod = Integer.parseInt(etInput.getText().toString());

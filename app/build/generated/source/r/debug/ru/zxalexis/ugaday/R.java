@@ -32,12 +32,11 @@ public final class R {
         public static final int behind=0x7f040002;
         public static final int error=0x7f040003;
         public static final int fool=0x7f040004;
-        public static final int hello_world=0x7f040005;
-        public static final int hit=0x7f040006;
-        public static final int input_value=0x7f040007;
-        public static final int nullstr=0x7f040008;
-        public static final int playmore=0x7f040009;
-        public static final int try_to_guess=0x7f04000a;
+        public static final int hit=0x7f040005;
+        public static final int input_value=0x7f040006;
+        public static final int nullstr=0x7f040007;
+        public static final int playmore=0x7f040008;
+        public static final int try_to_guess=0x7f040009;
     }
     public static final class style {
         /** 

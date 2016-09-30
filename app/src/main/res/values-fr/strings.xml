@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Deviner le nombre</string>
-    <string name="hello_world">Bonjour, Android !</string>
     <string name="behind">Trop petit !</string>
     <string name="ahead">Trop grand !</string>
     <string name="hit">Dans le mille !</string>

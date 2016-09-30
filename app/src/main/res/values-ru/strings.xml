@@ -5,10 +5,9 @@
     <string name="behind">Недолёт!</string>
     <string name="error">Ошибка ввода</string>
     <string name="fool">Ты проиграл :(((((</string>
-    <string name="hello_world">Приветики</string>
     <string name="hit">В точку!</string>
     <string name="input_value">Введи число</string>
     <string name="playmore">Сыграй еще</string>
-    <string name="try_to_guess">Угадай число (1-100)</string>
+    <string name="try_to_guess">Угадай число (1&#8211;100)</string>
 	<string name="nullstr">"   "</string>
 </resources>

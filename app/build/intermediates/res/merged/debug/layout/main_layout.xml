@@ -46,7 +46,8 @@
             android:onClick="onClick"
             android:text="@string/input_value"
             android:textAppearance="@android:style/TextAppearance"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:labelFor="@+id/editText1" />
 
     </RelativeLayout>
 
