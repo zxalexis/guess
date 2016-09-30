@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "ru.zxalexis.ugaday"
-        minSdkVersion 19
+        minSdkVersion 10
         targetSdkVersion 24
     }
 
