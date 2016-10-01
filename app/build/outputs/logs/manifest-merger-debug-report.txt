@@ -1,22 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:1:1-27:12
+ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:1:1-21:12
 	package
 		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:2:5-33
 		INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml
 		INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:4:5-31
-		INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml
-		INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml
-	android:versionCode
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:3:5-29
 		INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml
 		INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:11:5-25:19
+ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support:support-v4:24.2.1] /home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] /home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:24.2.1] /home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
@@ -24,31 +22,31 @@ MERGED from [com.android.support:support-core-utils:24.2.1] /home/zx/StudioProje
 MERGED from [com.android.support:support-core-ui:24.2.1] /home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:24.2.1] /home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:8:9-41
 	android:allowBackup
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:13:9-45
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:7:9-45
 	android:theme
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:9:9-40
 activity#ru.zxalexis.ugaday.activity_main
-ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:16:9-24:20
+ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:10:9-18:20
 	android:label
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:18:13-45
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:12:13-45
 	android:noHistory
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:19:13-37
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:17:13-60
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:11:13-60
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:14:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /home/zx/StudioProjects/guess-the-number/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v4:24.2.1] /home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54

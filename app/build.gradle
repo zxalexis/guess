@@ -1,13 +1,38 @@
 apply plugin: 'com.android.application'
 
+
+def getVersionCode = { ->
+
+        def stdout = new ByteArrayOutputStream()
+        exec {
+            commandLine 'git', 'tag'
+            standardOutput = stdout
+        }
+
+        def resCode =  (Float.parseFloat(stdout.toString()) * 100).toInteger()
+
+        println ("Version Code set up: " + resCode.toString())
+        return resCode
+
+
+}
+
+def getVersionName = { ->
+    def MajorVer = Math.round(getVersionCode()/100)
+    def MinorVer = getVersionCode()-(MajorVer*100)
+    def resName = MajorVer.toString() + "." + MinorVer.toString()
+    println("Version Name set up: " + resName)
+    return resName
+}
+
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.3"
 
     defaultConfig {
         applicationId "ru.zxalexis.ugaday"
-        versionCode 14
-        versionName "0.14"
+        versionCode getVersionCode()
+        versionName getVersionName()
         minSdkVersion 10
         targetSdkVersion 24
     }

@@ -2,130 +2,112 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_4cb96618b4c6963c6153482e581fe801813cf5d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_26b94611b3bb301c1fac919de92df05981d3459e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8c6f6a38519a537e21ca41cd4b42079cd32be850/classes.dex" />
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8c6f6a38519a537e21ca41cd4b42079cd32be850.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_daa0a29baf066dbc7fdaf6978d3b7ab3eb6e2b7f/classes.dex" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_4cb96618b4c6963c6153482e581fe801813cf5d8.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9cec9353a25d447bed873a6fe6d7425c7075b5a6/classes.dex" />
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_9cec9353a25d447bed873a6fe6d7425c7075b5a6.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_db1055e377a7265d8990da6c206cdd36bf5aa073/classes.dex" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_26b94611b3bb301c1fac919de92df05981d3459e.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ecb21cc5d616fc3d36f47caf01acbd74b2d7d310/classes.dex" />
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ecb21cc5d616fc3d36f47caf01acbd74b2d7d310.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="3998b5a81f35f24cf693a0cb42c4dfabc1253b34">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9635b8c5cf8aec203212f1cfb9abb1d94beeb61/classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_db1055e377a7265d8990da6c206cdd36bf5aa073.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_daa0a29baf066dbc7fdaf6978d3b7ab3eb6e2b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1bd680774d5398f3e6373cf821146fa8a6e8f00c/classes.dex" />
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1bd680774d5398f3e6373cf821146fa8a6e8f00c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ef7f84771c535475ff6ed84af32f9e463a1fd25e">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a89b9899ab708c2abab5d60dd11d760919f8b90/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_31e1ad69995908adad4eeffc845d1f0cbad3bc5c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e12d156fc0f01a76df0b895ab43de13d87589fe4/classes.dex" />
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_e12d156fc0f01a76df0b895ab43de13d87589fe4.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_27d47f90f3f9c22d6e80ba0e511c53592e225c58/classes.dex" />
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_27d47f90f3f9c22d6e80ba0e511c53592e225c58.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_31e1ad69995908adad4eeffc845d1f0cbad3bc5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_cd2763e983481a9810fdd8d3675caf7f7d470dbc/classes.dex" />
+        <dex dex="/home/zx/StudioProjects/guess-the-number/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_cd2763e983481a9810fdd8d3675caf7f7d470dbc.jar" />
     </item>
 
 </items>
