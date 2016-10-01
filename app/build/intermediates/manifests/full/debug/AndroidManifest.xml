@@ -9,6 +9,7 @@
         android:targetSdkVersion="24" />
 
     <!--
+     Now in Gradle
     <uses-sdk
         android:minSdkVersion="19"
         android:targetSdkVersion="24" />
